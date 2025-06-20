@@ -113,5 +113,6 @@ def sha(msg: str) -> str:
 ---
 
 ## References
-- [FIPS PUB 180-2: Secure Hash Standard (SHA)](https://csrc.nist.gov/publications/detail/fips/180/2/final)
+- [FIPS PUB 180-2: Secure Hash Standard (SHA)](https://cr.yp.to/bib/2002/-sha.pdf)
 - [Wikipedia: SHA-2](https://en.wikipedia.org/wiki/SHA-2)
+- [Youtube - RebBlockBlue](https://youtu.be/orIgy2MjqrA?feature=shared)
